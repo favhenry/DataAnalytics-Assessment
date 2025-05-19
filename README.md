@@ -86,7 +86,7 @@ DataAnalytics-Assessment/
 
 - All solutions are original and authored by the candidate.
 - No database dumps or non-SQL files are included.
-- Solutions should not be shared or redistributed.
+
 
 ---
 
